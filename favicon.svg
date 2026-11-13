@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-64 -64 640 640">
+  <!-- Same as vera-logo-dot.svg, with extra space around it so it sits smaller in the browser tab. -->
+  <path fill="#fdb84c" d="M24 48 H126 L216 352 L306 48 H408 L268 464 H164 Z"/>
+  <circle fill="#fdb84c" cx="450" cy="424" r="40"/>
+</svg>
